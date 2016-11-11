@@ -1,0 +1,60 @@
+A:
+  title: "Bund"
+AG:
+  title: "Aargau"
+AI:
+  title: "Appenzell Innerrhoden"
+AR:
+  title: "Appenzell Ausserrhoden"
+BE:
+  title: "Bern"
+BL:
+  title: "Basel-Land"
+BS:
+  title: "Basel-Stadt"
+FR:
+  title: "Fribourg"
+GE:
+  title: "Genf"
+GL:
+  title: "Glarus"
+GR:
+  title: "Graubünden"
+JU:
+  title: "Jura"
+LU:
+  title: "Luzern"
+M:
+  title: "Militär"
+NE:
+  title: "Neuenburg"
+NW:
+  title: "Nidwalden"
+OW:
+  title: "Obwalden"
+P:
+  title: "Post"
+SG:
+  title: "St. Gallen"
+SH:
+  title: "Schaffhausen"
+SO:
+  title: "Solothurn"
+SZ:
+  title: "Schwyz"
+TG:
+  title: "Thurgau"
+TI:
+  title: "Tessin"
+UR:
+  title: "Uri"
+VD:
+  title: "Waadt"
+VS:
+  title: "Wallis"
+Z:
+  title: "Zoll (befristet)"
+ZG:
+  title: "Zug"
+ZH:
+  title: "Zürich"

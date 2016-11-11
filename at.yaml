@@ -1,0 +1,318 @@
+A:
+  title: "Bundesorgane"
+  state: "Bundesweit"
+AM:
+  title: "Amstetten"
+  state: "Niederösterreich"
+B:
+  title: "Bregenz"
+  state: "Vorarlberg"
+BD:
+  title: "Bundesbusdienst"
+  state: "Bundesweit"
+BH:
+  title: "Bundesheer"
+  state: "Bundesweit"
+BL:
+  title: "Bruck an der Leitha"
+  state: "Niederösterreich"
+BM:
+  title: "Bruck-Mürzzuschlag"
+  state: "Steiermark"
+BN:
+  title: "Baden"
+  state: "Niederösterreich"
+BP:
+  title: "Bundespolizei"
+  state: "Bundesweit"
+BR:
+  title: "Braunau"
+  state: "Oberösterreich"
+BZ:
+  title: "Bludenz"
+  state: "Vorarlberg"
+CC:
+  title: "Konsularisches Corps"
+  state: "Bundesweit"
+CD:
+  title: "Diplomatisches Corps"
+  state: "Bundesweit"
+DL:
+  title: "Deutschlandsberg"
+  state: "Steiermark"
+DO:
+  title: "Dornbirn"
+  state: "Vorarlberg"
+E:
+  title: "Eisenstadt (Stadt)"
+  state: "Burgenland"
+EF:
+  title: "Eferding"
+  state: "Oberösterreich"
+EU:
+  title: "Eisenstadt (Umgebung)"
+  state: "Burgenland"
+FE:
+  title: "Feldkirchen"
+  state: "Kärnten"
+FK:
+  title: "Feldkirch"
+  state: "Vorarlberg"
+FR:
+  title: "Freistadt"
+  state: "Oberösterreich"
+FV:
+  title: "Finanzverwaltung"
+  state: "Bundesweit"
+G:
+  title: "Graz"
+  state: "Steiermark"
+GB:
+  title: "Gröbming"
+  state: "Steiermark"
+GD:
+  title: "Gmünd"
+  state: "Niederösterreich"
+GF:
+  title: "Gänserndorf"
+  state: "Niederösterreich"
+GM:
+  title: "Gmunden"
+  state: "Oberösterreich"
+GR:
+  title: "Grieskirchen"
+  state: "Oberösterreich"
+GS:
+  title: "Güssing"
+  state: "Burgenland"
+GU:
+  title: "Graz (Umgebung)"
+  state: "Steiermark"
+HA:
+  title: "Hallein"
+  state: "Salzburg"
+HE:
+  title: "Hermagor"
+  state: "Kärnten"
+HF:
+  title: "Hartberg-Fürstenfeld"
+  state: "Steiermark"
+HL:
+  title: "Hollabrunn"
+  state: "Niederösterreich"
+HO:
+  title: "Horn"
+  state: "Niederösterreich"
+I:
+  title: "Innsbruck (Stadt)"
+  state: "Tirol"
+IL:
+  title: "Innsbruck (Land)"
+  state: "Tirol"
+IM:
+  title: "Imst"
+  state: "Tirol"
+JE:
+  title: "Jennersdorf"
+  state: "Burgenland"
+JO:
+  title: "St. Johann im Pongau"
+  state: "Salzburg"
+JW:
+  title: "Justizwache"
+  state: "Bundesweit"
+K:
+  title: "Klagenfurt (Stadt)"
+  state: "Kärnten"
+KB:
+  title: "Kitzbühel"
+  state: "Tirol"
+KI:
+  title: "Kirchdorf an der Krems"
+  state: "Oberösterreich"
+KL:
+  title: "Klagenfurt (Land)"
+  state: "Kärnten"
+KO:
+  title: "Korneuburg"
+  state: "Niederösterreich"
+KR:
+  title: "Krems"
+  state: "Niederösterreich"
+KS:
+  title: "Krems an der Donau (Stadt)"
+  state: "Niederösterreich"
+KU:
+  title: "Kufstein"
+  state: "Tirol"
+L:
+  title: "Linz (Stadt)"
+  state: "Oberösterreich"
+LA:
+  title: "Landeck"
+  state: "Tirol"
+LB:
+  title: "Leibnitz"
+  state: "Steiermark"
+LE:
+  title: "Leoben (Stadt)"
+  state: "Steiermark"
+LF:
+  title: "Lilienfeld"
+  state: "Niederösterreich"
+LI:
+  title: "Liezen"
+  state: "Steiermark"
+LL:
+  title: "Linz (Land)"
+  state: "Oberösterreich"
+LN:
+  title: "Leoben (Umgebung)"
+  state: "Steiermark"
+LZ:
+  title: "Lienz"
+  state: "Tirol"
+MA:
+  title: "Mattersburg"
+  state: "Burgenland"
+MD:
+  title: "Mödling"
+  state: "Niederösterreich"
+ME:
+  title: "Melk"
+  state: "Niederösterreich"
+MI:
+  title: "Mistelbach"
+  state: "Niederösterreich"
+MT:
+  title: "Murtal"
+  state: "Steiermark"
+MU:
+  title: "Murau"
+  state: "Steiermark"
+ND:
+  title: "Neusiedl am See"
+  state: "Burgenland"
+NK:
+  title: "Neunkirchen"
+  state: "Niederösterreich"
+OP:
+  title: "Oberpullendorf"
+  state: "Burgenland"
+OW:
+  title: "Oberwart"
+  state: "Burgenland"
+P:
+  title: "St. Pölten (Stadt)"
+  state: "Niederösterreich"
+PE:
+  title: "Perg"
+  state: "Oberösterreich"
+PL:
+  title: "St. Pölten (Land)"
+  state: "Niederösterreich"
+PT:
+  title: "Post"
+  state: "Bundesweit"
+RE:
+  title: "Reutte"
+  state: "Tirol"
+RI:
+  title: "Ried im Innkreis"
+  state: "Oberösterreich"
+RO:
+  title: "Rohrbach"
+  state: "Oberösterreich"
+S:
+  title: "Salzburg (Stadt)"
+  state: "Salzburg"
+SB:
+  title: "Scheibbs"
+  state: "Niederösterreich"
+SD:
+  title: "Schärding"
+  state: "Oberösterreich"
+SE:
+  title: "Steyr (Land)"
+  state: "Oberösterreich"
+SL:
+  title: "Salzburg (Land)"
+  state: "Salzburg"
+SO:
+  title: "Südoststeiermark"
+  state: "Steiermark"
+SP:
+  title: "Spittal an der Drau"
+  state: "Kärnten"
+SR:
+  title: "Steyr (Stadt)"
+  state: "Oberösterreich"
+SV:
+  title: "St. Veit an der Glan"
+  state: "Kärnten"
+SW:
+  title: "Schwechat"
+  state: "Niederösterreich"
+SZ:
+  title: "Schwaz"
+  state: "Tirol"
+TA:
+  title: "Tamsweg"
+  state: "Salzburg"
+TU:
+  title: "Tulln"
+  state: "Niederösterreich"
+UU:
+  title: "Urfahr (Umgebung)"
+  state: "Oberösterreich"
+VB:
+  title: "Vöcklabruck"
+  state: "Oberösterreich"
+VI:
+  title: "Villach"
+  state: "Kärnten"
+VK:
+  title: "Völkermarkt"
+  state: "Kärnten"
+VL:
+  title: "Villach (Land)"
+  state: "Kärnten"
+VO:
+  title: "Voitsberg"
+  state: "Steiermark"
+W:
+  title: "Wien"
+  state: "Wien"
+WB:
+  title: "Wiener Neustadt (Land)"
+  state: "Niederösterreich"
+WE:
+  title: "Wels (Stadt)"
+  state: "Oberösterreich"
+WL:
+  title: "Wels (Land)"
+  state: "Oberösterreich"
+WN:
+  title: "Wiener Neustadt (Stadt)"
+  state: "Niederösterreich"
+WO:
+  title: "Wolfsberg"
+  state: "Kärnten"
+WT:
+  title: "Waidhofen an der Thaya"
+  state: "Niederösterreich"
+WU:
+  title: "Wien (Umgebung)"
+  state: "Niederösterreich"
+WY:
+  title: "Waidhofen an der Ybbs"
+  state: "Niederösterreich"
+WZ:
+  title: "Weiz"
+  state: "Steiermark"
+ZE:
+  title: "Zell am See"
+  state: "Salzburg"
+ZT:
+  title: "Zwettl"
+  state: "Niederösterreich"
