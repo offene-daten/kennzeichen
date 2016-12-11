@@ -58,9 +58,6 @@ ANG:
 ANK:
   title: "Anklam (Vorpommern-Greifswald)"
   state: "Mecklenburg-Vorpommern"
-AÖ:
-  title: "Altötting"
-  state: "Bayern"
 AP:
   title: "Apolda (Weimarer-Land)"
   state: "Thüringen"
@@ -208,9 +205,6 @@ BOR:
 BOT:
   title: "Bottrop"
   state: "Nordrhein-Westfalen"
-BÖ:
-  title: "Börde"
-  state: "Sachsen-Anhalt"
 BP:
   title: "Bundespolizei"
   state: "Bundesweit"
@@ -244,18 +238,6 @@ BTF:
 BUL:
   title: "Burglengenfeld"
   state: "Bayern"
-BÜD:
-  title: "Büdingen (Wetteraukreis)"
-  state: "Hessen"
-BÜR:
-  title: "Büren"
-  state: "Nordrhein-Westfalen"
-BÜS:
-  title: "Büsingen am Hochrhein"
-  state: "Baden-Württemberg"
-BÜZ:
-  title: "Bützow (Rostock)"
-  state: "Mecklenburg-Vorpommern"
 BW:
   title: "Wasser- und Schifffahrtsverwaltung des Bundes"
   state: "Bundesweit"
@@ -285,7 +267,7 @@ BÜS:
   state: "Baden-Württemberg"
 BÜZ:
   title: "Bützow (Rostock)"
-  state: "null"
+  state: "Mecklenburg-Vorpommern"
 C:
   title: "Chemnitz"
   state: "Sachsen"
@@ -403,9 +385,6 @@ DU:
 DUD:
   title: "Duderstadt (Göttingen)"
   state: "Niedersachsen"
-DÜW:
-  title: "Bad Dürkheim"
-  state: "Rheinland-Pfalz"
 DW:
   title: "Dippoldiswalde"
   state: "Sachsen"
@@ -547,9 +526,6 @@ FKB:
 FL:
   title: "Flensburg"
   state: "Schleswig-Holstein"
-FLÖ:
-  title: "Flöha (Mittelsachsen)"
-  state: "Sachsen"
 FLÖ:
   title: "Flöha (Mittelsachsen)"
   state: "Sachsen"
@@ -583,12 +559,6 @@ FT:
 FTL:
   title: "Freital (Sächsische Schweiz)"
   state: "Sachsen"
-FÜ:
-  title: "Fürth"
-  state: "Bayern"
-FÜS:
-  title: "Füssen"
-  state: "Bayern"
 FZ:
   title: "Fritzlar-Homberg"
   state: "Hessen"
@@ -673,9 +643,6 @@ GOA:
 GOH:
   title: "St. Goarshausen (Rhein-Lahn-Kreis)"
   state: "Hessen"
-GÖ:
-  title: "Göttingen"
-  state: "Niedersachsen"
 GP:
   title: "Göppingen"
   state: "Baden-Württemberg"
@@ -712,9 +679,6 @@ GUB:
 GUN:
   title: "Weißenburg-Gunzenhausen"
   state: "Bayern"
-GÜ:
-  title: "Güstrow"
-  state: "Mecklenburg-Vorpommern"
 GV:
   title: "Grevenbroich"
   state: "Nordrhein-Westfalen"
@@ -832,9 +796,6 @@ HL:
 HM:
   title: "Hameln-Pyrmont"
   state: "Niedersachsen"
-HMÜ:
-  title: "Hann. Münden (Göttingen)"
-  state: "Niedersachsen"
 HMÜ:
   title: "Hann. Münden (Göttingen)"
   state: "Niedersachsen"
@@ -862,9 +823,6 @@ HOR:
 HOT:
   title: "Hohenstein-Ernstthal (Zwickau)"
   state: "Sachsen"
-HÖS:
-  title: "Höchstadt an der Aisch"
-  state: "Bayern"
 HP:
   title: "Bergstrasse in Heppenheim"
   state: "Hessen"
@@ -934,9 +892,6 @@ JE:
 JL:
   title: "Jerichower Land"
   state: "Sachsen-Anhalt"
-JÜL:
-  title: "Jülich"
-  state: "Nordrhein-Westfalen"
 JÜL:
   title: "Jülich"
   state: "Nordrhein-Westfalen"
@@ -1000,15 +955,6 @@ KN:
 KO:
   title: "Koblenz"
   state: "Rheinland-Pfalz"
-KÖN:
-  title: "Königshofen im Grabfeld"
-  state: "Bayern"
-KÖT:
-  title: "Köthen"
-  state: "Sachsen-Anhalt"
-KÖZ:
-  title: "Kötzting"
-  state: "Bayern"
 KR:
   title: "Krefeld"
   state: "Nordrhein-Westfalen"
@@ -1027,9 +973,6 @@ KU:
 KUS:
   title: "Kusel"
   state: "Rheinland-Pfalz"
-KÜN:
-  title: "Künzelsau (Hohenlohe-Kreis)"
-  state: "Baden-Württemberg"
 KW:
   title: "Königs Wusterhausen (Dahme-Spreewald)"
   state: "Brandenburg"
@@ -1123,12 +1066,6 @@ LN:
 LOS:
   title: "Landkreis Oder-Spree"
   state: "Brandenburg"
-LÖ:
-  title: "Lörrach"
-  state: "Baden-Württemberg"
-LÖB:
-  title: "Löbau (Görlitz)"
-  state: "Sachsen"
 LP:
   title: "Lippstadt (Soest)"
   state: "Nordrhein-Westfalen"
@@ -1153,9 +1090,6 @@ LU:
 LUP:
   title: "Ludwigslust-Parchim"
   state: "Mecklenburg-Vorpommern"
-LÜN:
-  title: "Lünen (Unna)"
-  state: "Nordrhein-Westfalen"
 LWL:
   title: "Ludwigslust"
   state: "Mecklenburg-Vorpommern"
@@ -1294,15 +1228,6 @@ MTK:
 MTL:
   title: "Muldentalkreis"
   state: "Sachsen"
-MÜ:
-  title: "Mühldorf am Inn"
-  state: "Bayern"
-MÜB:
-  title: "Münchberg"
-  state: "Bayern"
-MÜR:
-  title: "Müritz"
-  state: "Mecklenburg-Vorpommern"
 MVL:
   title: "Landesreg. Mecklenburg-Vorpommern"
   state: "Mecklenburg-Vorpommern"
@@ -1325,8 +1250,8 @@ MÜ:
   title: "Mühldorf am Inn"
   state: "Bayern"
 MÜB:
-  title: "null"
-  state: "null"
+  title: "Münchberg"
+  state: "Bayern"
 MÜR:
   title: "Müritz"
   state: "Mecklenburg-Vorpommern"
@@ -1408,9 +1333,6 @@ NOM:
 NOR:
   title: "Norden (Aurich)"
   state: "Niedersachsen"
-NÖ:
-  title: "Nördlingen"
-  state: "Bayern"
 NP:
   title: "Neuruppin"
   state: "Brandenburg"
@@ -1480,9 +1402,6 @@ OH:
 OHA:
   title: "Osterode/Harz"
   state: "Niedersachsen"
-ÖHR:
-  title: "Öhringen"
-  state: "Baden-Württemberg"
 OHV:
   title: "Oberhavel"
   state: "Brandenburg"
@@ -1519,7 +1438,7 @@ OVP:
 OZ:
   title: "Oschatz (Nordsachsen)"
   state: "Sachsen"
-ÖHR:
+ÖHR:
   title: "Öhringen"
   state: "Baden-Württemberg"
 P:
@@ -1561,9 +1480,6 @@ PIR:
 PL:
   title: "Plauen"
   state: "Sachsen"
-PLÖ:
-  title: "Plön/Holstein"
-  state: "Schleswig-Holstein"
 PLÖ:
   title: "Plön/Holstein"
   state: "Schleswig-Holstein"
@@ -1576,9 +1492,6 @@ PN:
 PR:
   title: "Prignitz"
   state: "Brandenburg"
-PRÜ:
-  title: "Prüm (Bitburg)"
-  state: "Rheinland-Pfalz"
 PRÜ:
   title: "Prüm (Bitburg)"
   state: "Rheinland-Pfalz"
@@ -1690,12 +1603,6 @@ RT:
 RU:
   title: "Rudolstadt"
   state: "Thüringen"
-RÜD:
-  title: "Rüdesheim (Rheingau-Taunus-Kreis)"
-  state: "Hessen"
-RÜG:
-  title: "Rügen"
-  state: "Mecklenburg-Vorpommern"
 RV:
   title: "Ravensburg"
   state: "Baden-Württemberg"
@@ -1828,9 +1735,6 @@ SLN:
 SLS:
   title: "Saarlouis"
   state: "Saarland"
-SLÜ:
-  title: "Schlüchtern"
-  state: "Hessen"
 SLZ:
   title: "Bad Salzungen"
   state: "Thüringen"
@@ -1857,9 +1761,6 @@ SOK:
   state: "Thüringen"
 SON:
   title: "Sonneberg"
-  state: "Thüringen"
-SÖM:
-  title: "Sömmerda"
   state: "Thüringen"
 SP:
   title: "Speyer"
@@ -1903,9 +1804,6 @@ SU:
 SUL:
   title: "Sulzbach-Rosenberg"
   state: "Bayern"
-SÜW:
-  title: "Südl. Weinstrasse (Landau)"
-  state: "Rheinland-Pfalz"
 SW:
   title: "Schweinfurt"
   state: "Bayern"
@@ -1954,9 +1852,6 @@ TIR:
 TO:
   title: "Torgau-Oschatz"
   state: "Sachsen"
-TÖL:
-  title: "Bad Tölz-Wolfratshausen"
-  state: "Bayern"
 TP:
   title: "Templin"
   state: "Brandenburg"
@@ -1968,9 +1863,6 @@ TS:
   state: "Bayern"
 TUT:
   title: "Tuttlingen"
-  state: "Baden-Württemberg"
-TÜ:
-  title: "Tübingen"
   state: "Baden-Württemberg"
 TÖL:
   title: "Bad Tölz-Wolfratshausen"
@@ -2176,12 +2068,6 @@ WUN:
 WUR:
   title: "Wurzen (Leipzig)"
   state: "Sachsen"
-WÜ:
-  title: "Würzburg"
-  state: "Bayern"
-WÜM:
-  title: "Waldmünchen"
-  state: "Bayern"
 WW:
   title: "Westerwald"
   state: "Rheinland-Pfalz"
