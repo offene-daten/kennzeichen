@@ -1609,6 +1609,9 @@ RV:
 RW:
   title: "Rottweil"
   state: "Baden-Württemberg"
+RY:
+  title: "Rheydt"
+  state: "Nordrhein-Westfalen"
 RZ:
   title: "Ratzeburg (Herzogtum Lauenburg)"
   state: "Schleswig-Holstein"
