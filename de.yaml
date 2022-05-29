@@ -1000,6 +1000,9 @@ L:
 LA:
   title: "Landshut"
   state: "Bayern"
+LAN:
+  title: "Landau"
+  state: "Bayern"
 LAU:
   title: "Lauf/Pegnitz"
   state: "Bayern"
