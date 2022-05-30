@@ -169,9 +169,12 @@ BIT:
 BIW:
   title: "Bischofswerda (Bautzen)"
   state: "Sachsen"
-BK:
+BÖ:
   title: "Bördekreis"
   state: "Sachsen-Anhalt"
+BK:
+  title: "Backnang"
+  state: "Baden-Württemberg"
 BKS:
   title: "Bernkastel-Kues (Bernkastel-Wittlich)"
   state: "Rheinland-Pfalz"
@@ -1000,6 +1003,9 @@ L:
 LA:
   title: "Landshut"
   state: "Bayern"
+LAN:
+  title: "Landau"
+  state: "Bayern"
 LAU:
   title: "Lauf/Pegnitz"
   state: "Bayern"
@@ -1423,6 +1429,9 @@ OPR:
 OS:
   title: "Osnabrück"
   state: "Niedersachsen"
+OTW:
+  title: "Neunkirchen/Saar"
+  state: "Saarland"
 OSL:
   title: "Oberspreewald-Lausitz"
   state: "Brandenburg"
@@ -1609,6 +1618,9 @@ RV:
 RW:
   title: "Rottweil"
   state: "Baden-Württemberg"
+RY:
+  title: "Rheydt"
+  state: "Nordrhein-Westfalen"
 RZ:
   title: "Ratzeburg (Herzogtum Lauenburg)"
   state: "Schleswig-Holstein"
