@@ -58,6 +58,9 @@ ANG:
 ANK:
   title: "Anklam (Vorpommern-Greifswald)"
   state: "Mecklenburg-Vorpommern"
+AÖ:
+  title: "Altötting"
+  state: "Bayern"
 AP:
   title: "Apolda (Weimarer-Land)"
   state: "Thüringen"
@@ -97,9 +100,6 @@ AZ:
 AZE:
   title: "Anhalt-Zerbst"
   state: "Sachsen-Anhalt"
-AÖ:
-  title: "Altötting"
-  state: "Bayern"
 B:
   title: "Berlin"
   state: "Berlin"
@@ -169,9 +169,6 @@ BIT:
 BIW:
   title: "Bischofswerda (Bautzen)"
   state: "Sachsen"
-BÖ:
-  title: "Bördekreis"
-  state: "Sachsen-Anhalt"
 BK:
   title: "Backnang"
   state: "Baden-Württemberg"
@@ -199,6 +196,9 @@ BNA:
 BO:
   title: "Bochum"
   state: "Nordrhein-Westfalen"
+BOG:
+  title: "Straubing-Bogen"
+  state: "Bayern"
 BOH:
   title: "Bocholt (Kreis Borken)"
   state: "Nordrhein-Westfalen"
@@ -232,6 +232,9 @@ BRV:
 BS:
   title: "Braunschweig"
   state: "Niedersachsen"
+BSK:
+  title: "Beeskow (Oder-Spree)"
+  state: "Brandenburg"
 BT:
   title: "Bayreuth"
   state: "Bayern"
@@ -562,6 +565,9 @@ FT:
 FTL:
   title: "Freital (Sächsische Schweiz)"
   state: "Sachsen"
+FW:
+  title: "Fürstenwalde (Oder-Spree)"
+  state: "Brandenburg"
 FZ:
   title: "Fritzlar-Homberg"
   state: "Hessen"
@@ -604,6 +610,9 @@ GEO:
 GER:
   title: "Germersheim"
   state: "Rheinland-Pfalz"
+GEM:
+  title: "Gemünden am Main (Main-Spessart)"
+  state: "Bayern"
 GF:
   title: "Gifhorn"
   state: "Niedersachsen"
@@ -1150,6 +1159,12 @@ MEI:
 MEK:
   title: "Mittlerer Erzgebirgskreis"
   state: "Sachsen"
+MEL:
+  title: "Melle"
+  state: "Niedersachsen"
+MEP:
+  title: "Meppen"
+  state: "Niedersachsen"
 MER:
   title: "Merseburg"
   state: "Sachsen-Anhalt"
@@ -1258,6 +1273,9 @@ MÜ:
 MÜB:
   title: "Münchberg"
   state: "Bayern"
+MÜL:
+  title: "Müllheim"
+  state: "Baden-Württemberg"
 MÜR:
   title: "Müritz"
   state: "Mecklenburg-Vorpommern"
@@ -1300,6 +1318,9 @@ NEN:
 NES:
   title: "Bad Neustadt/Saale (Rhön-Grabfeld)"
   state: "Bayern"
+NEU:
+  title: "Titisee-Neustadt (Breisgau-Hochschwarzwald)"
+  state: "Baden-Württemberg"
 NEW:
   title: "Neustadt/Waldnaab"
   state: "Bayern"
@@ -1381,6 +1402,9 @@ OAL:
 OB:
   title: "Oberhausen/Rheinland"
   state: "Nordrhein-Westfalen"
+OBB:
+  title: "Obernburg am Main (Landkreis Miltenberg)"
+  state: "Bayern"
 OBG:
   title: "Osterburg"
   state: "Sachsen-Anhalt"
@@ -1429,12 +1453,12 @@ OPR:
 OS:
   title: "Osnabrück"
   state: "Niedersachsen"
-OTW:
-  title: "Neunkirchen/Saar"
-  state: "Saarland"
 OSL:
   title: "Oberspreewald-Lausitz"
   state: "Brandenburg"
+OTW:
+  title: "Neunkirchen/Saar"
+  state: "Saarland"
 OVI:
   title: "Oberviechtach"
   state: "Bayern"
@@ -1738,6 +1762,9 @@ SLE:
 SLF:
   title: "Saalfeld"
   state: "Thüringen"
+SLG:
+  title: "Bad Saulgau"
+  state: "Baden-Württemberg"
 SLK:
   title: "Salzlandkreis"
   state: "Sachsen-Anhalt"
@@ -1756,6 +1783,9 @@ SLÜ:
 SM:
   title: "Schmalkalden"
   state: "Thüringen"
+SMÜ:
+  title: "Schwabmünchen (Augsburg)"
+  state: "Bayern"
 SN:
   title: "Schwerin"
   state: "Mecklenburg-Vorpommern"
@@ -1784,7 +1814,7 @@ SPN:
   title: "Spree-Neisse"
   state: "Brandenburg"
 SR:
-  title: "Straubing-Bogen"
+  title: "Stadt Straubing"
   state: "Bayern"
 SRB:
   title: "Strausberg"
@@ -1822,12 +1852,18 @@ SW:
 SWA:
   title: "Untertaunuskreis"
   state: "Hessen"
+SY:
+  title: "Syke (Landkreis Diepholz)"
+  state: "Niedersachsen"
 SZ:
   title: "Salzgitter"
   state: "Niedersachsen"
 SZB:
   title: "Schwarzenberg (Erzgebirgskreis)"
   state: "Sachsen"
+SÄK:
+  title: "Säckingen (Waldshut)"
+  state: "Baden-Württemberg"
 SÖM:
   title: "Sömmerda"
   state: "Thüringen"
@@ -1873,6 +1909,9 @@ TR:
 TS:
   title: "Traunstein"
   state: "Bayern"
+TT:
+  title: "Tettnang (Bodenseekreis)"
+  state: "Baden-Württemberg"
 TUT:
   title: "Tuttlingen"
   state: "Baden-Württemberg"
@@ -1909,6 +1948,9 @@ UN:
 USI:
   title: "Usingen"
   state: "Hessen"
+ÜB:
+  title: "Überlingen (Bodenseekreis)"
+  state: "Baden-Württemberg"
 V:
   title: "Vogtlandkreis"
   state: "Sachsen"
@@ -1933,9 +1975,18 @@ VIB:
 VIE:
   title: "Viersen"
   state: "Nordrhein-Westfalen"
+VIT:
+  title: "Viechtach"
+  state: "Bayern"
 VK:
   title: "Völklingen"
   state: "Saarland"
+VL:
+  title: "Villingen"
+  state: "Baden-Württemberg"
+VOF:
+  title: "Vilshofen (Landkreis Passau)"
+  state: "Bayern"
 VOH:
   title: "Vohenstrauß"
   state: "Bayern"
@@ -1959,6 +2010,9 @@ WAK:
   state: "Thüringen"
 WAN:
   title: "Wanne-Eickel (Herne)"
+  state: "Nordrhein-Westfalen"
+WAR:
+  title: "Kreis Höxter (Stadt Warburg)"
   state: "Nordrhein-Westfalen"
 WAT:
   title: "Wattenscheid (Bochum)"
@@ -1990,6 +2044,9 @@ WES:
 WF:
   title: "Wolfenbüttel"
   state: "Niedersachsen"
+WG:
+  title: "Wangen (Landkreis Ravensburg)"
+  state: "Baden-Württemberg"
 WHV:
   title: "Wilhelmshaven"
   state: "Niedersachsen"
@@ -2068,6 +2125,9 @@ WSW:
 WT:
   title: "Waldshut-Tiengen"
   state: "Baden-Württemberg"
+WTL:
+  title: "Wittlage"
+  state: "Niedersachsen"
 WTM:
   title: "Wittmund"
   state: "Niedersachsen"
